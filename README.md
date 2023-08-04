@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://stats.hyochan.dev/en/stats/HYPERERVelocity"><img src="https://stats.hyochan.dev/api/github-stats?login=HYPERERVelocity" width="600" /></a>
+![HYPERERVelocity github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=HYPERERVelocity)
