@@ -1,9 +1,14 @@
 [![MasterHead](https://github.com/HYPERERVelocity/HYPERERVelocity/blob/main/R2.png?resize=1800%2C630)](https://AVI-SHUKLA1110.io)
 <h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
 <h3 align="center">As a web developer, I craft online experiences while diving into AI and Machine Learning.</h3>
+<img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 
 - 🌱 **I’m currently learning** **Machine Learning and Data Science**
 
+- 🌱 **I’m currently learning** **Machine Learning and Data Science**
+- 🌱 **I’m currently learning** **Machine Learning and Data Science**
+- 🌱 **I’m currently learning** **Machine Learning and Data Science**
 - 💬 Ask me about **WebDev ,Artificial Intelligence**
 
 - 📫 How to reach me **rohansbedage2001@gmail.com**
@@ -12,15 +17,14 @@
 
 
 <br />
-<img align="right" alt="Coding" height="250" width="350"
-    src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 
 
 <h3 align="left">Stars</h3>
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansbedage&theme=dark" alt="rohansbedage" /></p>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
