@@ -1,5 +1,6 @@
 
 [![MasterHead](https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1800%2C630)](https://AVI-SHUKLA1110.io)
+<img align="center" src="R1.png">
 <h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
 <h3 align="center">As a web developer, I craft online experiences while diving into AI and Machine Learning.</h3>
 
