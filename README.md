@@ -1,7 +1,41 @@
+
+[![MasterHead](https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1800%2C630)](https://AVI-SHUKLA1110.io)
 <h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
 <h3 align="center">As a web developer, I craft online experiences while diving into AI and Machine Learning.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 **I’m currently learning** **Machine Learning and Data Science**
+
+- 💬 Ask me about **WebDev ,Artificial Intelligence**
+
+- 📫 How to reach me **rohansbedage2001@gmail.com**
+
+- ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
+
+
+<br />
+<img align="right" alt="Coding" height="250" width="350"
+    src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+
+<h3 align="left">Stars</h3>
+
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansbedage&theme=dark" alt="rohansbedage" /></p>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+<h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
+<h3 align="center">As a web developer, I craft online experiences while diving into AI and Machine Learning.</h3>
+
+- 🌱 **I’m currently learning** **Machine Learning and Data Science**
 
 - 💬 Ask me about **WebDev ,Artificial Intelligence**
 
@@ -36,10 +70,27 @@ Add Here :
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansbedage&theme=dark" alt="rohansbedage" /></p>
 
 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
 
+<h2 align="center">Connect with Me !! 🤝</h2> 
 
+<p align="center">
+<a href="https://github.com/advaith-unnikrishnan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/advaithu/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/advaith_u" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://blog.advaith.co/">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="mailto:advaithunni2000@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
 
 
 
