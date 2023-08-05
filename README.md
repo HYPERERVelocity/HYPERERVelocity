@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/HYPERERVelocity/HYPERERVelocity/blob/main/R1.png">
+<img align="center" src="https://github.com/HYPERERVelocity/HYPERERVelocity/blob/main/R2.png">
 <h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
 <h3 align="center">As a web developer, I craft online experiences while diving into AI and Machine Learning.</h3>
 
