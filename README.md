@@ -5,8 +5,9 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 💬 Ask me about **WebDev ,Artificial Intelligence**
-- ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
+💬 Ask me about **WebDev ,Artificial Intelligence**
+
+⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
 <h3>Connect: </h3>
 
  [ ![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
