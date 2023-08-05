@@ -28,7 +28,7 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
 
-<p align="center"> 
+<p> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=octonawish-akcodes&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=octonawish-akcodes&theme=tokyonight" />
 </p>
