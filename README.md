@@ -9,10 +9,6 @@
 
 
 - 🌱 **I’m currently learning** **Machine Learning and Data Science**
-
-- 🌱 **I’m currently learning** **Machine Learning and Data Science**
-- 🌱 **I’m currently learning** **Machine Learning and Data Science**
-- 🌱 **I’m currently learning** **Machine Learning and Data Science**
 - 💬 Ask me about **WebDev ,Artificial Intelligence**
 
 - 📫 How to reach me **rohansbedage2001@gmail.com**
