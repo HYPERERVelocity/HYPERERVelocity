@@ -4,14 +4,14 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=635&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+Working+on+Deep+Learning" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=635&lines=%F0%9F%92%AC+Ask+me+about+WebDev+%2C+Artificial+Intelligence" alt="Typing SVG" /></a>
 
 - 💬 Ask me about **WebDev ,Artificial Intelligence**
 - ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
-## **Connect**
-- [ ![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
+<h3>Connect: </h3>
+
+ [ ![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com)
+
 
 </br></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-blue?logo=c%2B%2B&logoColor=white"></img>
