@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Bedage</h1>
+<h3 align="center">Web Dev | AI & ML</h3>
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-
 - 🌱 **I’m currently learning** **Machine Learning and Data Science**
 - 💬 Ask me about **WebDev ,Artificial Intelligence**
+- ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
 
 - [ ![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
 [![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com)
-- ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
 
 </br></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-blue?logo=c%2B%2B&logoColor=white"></img>
