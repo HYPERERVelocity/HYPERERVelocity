@@ -5,9 +5,9 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-🌱 I’m currently Delving into **Deep Learning.**
+💻 I’m currently Delving into **Deep Learning.**
 
-👯 I’m looking to collaborate on **Data Science and Machine Learning Projects.**
+👨🏻‍🤝‍👨🏻 I’m looking to collaborate on **Data Science and Machine Learning Projects.**
 
 💬 Ask me about **WebDev & ML**
 
