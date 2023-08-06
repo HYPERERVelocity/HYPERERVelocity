@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects.**
 
-💬 Ask me about **WebDev ,Artificial Intelligence**
+💬 Ask me about **WebDev & ML**
 
 ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
 <h3>Connect: </h3>
