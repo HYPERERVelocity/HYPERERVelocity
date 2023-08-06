@@ -14,8 +14,8 @@
 ⚡ Fun fact **While I'm busy designing algorithms during the day, you might find me smashing shuttlecocks on the badminton court in the evenings.**
 <h3>Connect: </h3>
 
- [ ![Linkedin Badge](https://img.shields.io/badge/-AbhishekKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar12/)](https://www.linkedin.com/in/abhishek-kumar12/)
-[![Gmail Badge](https://img.shields.io/badge/-abhishek22512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek22512@gmail.com)](mailto:abhishek22512@gmail.com)
+ [ ![Linkedin Badge](https://img.shields.io/badge/-RohanBedage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanbedage/)](https://www.linkedin.com/in/rohanbedage/)
+[![Gmail Badge](https://img.shields.io/badge/-rohansbedage2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohansbedage2001@gmail.com)](mailto:rohansbedage2001@gmail.com)
 
 
 </br></br>
