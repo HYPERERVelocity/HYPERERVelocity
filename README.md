@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 </a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Thi+is+Rohan+Bedage+%2C+Over+%26+Out+!" alt="Typing SVG" /></a>
 
 </h1>
 
